@@ -10,5 +10,5 @@ Uses HTML5, Javascript, Bootstrap
 
 # Run
 
-* `clone https://github.com/Ero6067/form0validation-example.git`
+* `clone https://github.com/Ero6067/form-validation-example.git`
 * open index.html
