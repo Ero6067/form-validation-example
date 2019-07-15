@@ -6,7 +6,8 @@ Uses HTML5, Javascript, Bootstrap
 
 # Features
 
-* 
+* using REGEX to limit what a user can put into a form as an acceptable answer
+* sending a warning when deselecting a form and it has invalid data 
 
 # Run
 
